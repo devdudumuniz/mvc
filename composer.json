@@ -1,0 +1,20 @@
+{
+    "name": "satellasoft/mvc",
+    "autoload": {
+        "psr-4": {
+            "Satellasoft\\Mvc\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "dudu muniz",
+            "email": "dudumunizads@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload-dev": {
+        "psr-4": {
+            "app\\" : "app/"
+        }
+    }
+}
